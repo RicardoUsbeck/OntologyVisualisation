@@ -13,7 +13,7 @@ import org.openrdf.rio.RDFParser;
 import org.openrdf.rio.helpers.StatementCollector;
 import org.openrdf.rio.rdfxml.RDFXMLParser;
 
-public class unisterRDF_sesame {
+public class Main {
 
     private static HashMap<String, Integer> nodeNames;
 
