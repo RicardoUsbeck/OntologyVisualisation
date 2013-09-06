@@ -3,4 +3,8 @@
 .classpath
 .project
 .settings/*
+label/
+triple/
+unister-owl.graphml
+unister-owl.rdf
 
